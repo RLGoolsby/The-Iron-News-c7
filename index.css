@@ -14,6 +14,7 @@ margin-top: 10px;
 margin-bottom: 10px;
 }
 
+
 /*  The color of the Nav bar */
 
 header{
@@ -128,4 +129,9 @@ cursor: pointer;
  .search-bar{
 margin-left: 33%;
 font-size: 14px;
+}
+
+.more{
+margin-top: 2em;
+margin-left: 3.5em;
 }
