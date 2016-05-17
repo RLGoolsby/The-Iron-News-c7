@@ -1,1 +1,131 @@
-	
+body{
+margin: 2% 10%;
+background-color: white;
+border: 1px solid black;
+}
+
+/* This area styles background of the page*/
+
+.container{
+width: 80%;
+background-color: #eee;
+margin-left: 6.2em;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+/*  The color of the Nav bar */
+
+header{
+background-color: #7E7D8A;
+}
+
+
+
+.logo{
+font-size: 16px;
+font-weight: bold;
+font-style: normal;
+font-family: serif;
+color: white;
+margin-left: 5px;
+margin-right: 7px;
+padding: 2px 7px 2px 7px;
+border: 1px solid white;
+}
+
+
+
+h3{
+font-size: 18px;
+font-family: "Lota", "Arial", sans-serif;
+background-color: #7E7D8A;
+display: inline-block;
+margin: 1%;
+}
+
+
+nav{
+display: inline-block;
+font-size: 16px;
+font-family: "Lota", "Arial", sans-serif;
+width: 82%;
+}
+
+
+.nav-div{
+display: inline-block;
+margin-right: 10px;
+margin-left: 3px;
+border-right: 2px solid;
+border-color: white;
+padding-right: 0.7em;
+cursor: pointer;
+font-weight: bold;
+}
+
+
+.select{
+  list-style-type: none;
+  float: right;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+
+
+
+  /*   Ordered list items */
+
+ol li{
+font-size: 18px;
+padding-top: 12px;
+color: #767676;
+margin-top: 20px;
+margin-bottom: 10px;
+}
+
+
+.title{
+color: black;
+}
+
+
+.email{
+  margin-left: 1px;
+}
+
+
+p{
+display: inline;
+margin-left: 18px;
+font-size: 14px;
+color: #767676;
+}
+
+
+
+
+
+
+
+          /* Footer */
+.end{
+padding: 9px 20px 9px 20px;
+}
+
+.end-tabs{
+display: inline-block;
+padding-right: 0.7em;
+border-right: 2px  solid;
+border-color: #767676;
+margin-left: 12px;
+font-size: 12px;
+cursor: pointer;
+}
+
+
+ .search-bar{
+margin-left: 33%;
+font-size: 14px;
+}
