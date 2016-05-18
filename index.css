@@ -4,7 +4,7 @@ background-color: white;
 border: 1px solid black;
 }
 
-/* This area styles background of the page*/
+/* This area holds the  all content of Cat Mews */
 
 .container{
 width: 80%;
@@ -15,7 +15,7 @@ margin-bottom: 10px;
 }
 
 
-/*  The color of the Nav bar */
+/*  The Nav Bar */
 
 header{
 background-color: #7E7D8A;
@@ -108,9 +108,12 @@ color: #767676;
 
 
 
-
-
           /* Footer */
+
+footer{
+  border-top: 2px solid black;
+}
+
 .end{
 padding: 9px 20px 9px 20px;
 }
@@ -129,6 +132,7 @@ cursor: pointer;
  .search-bar{
 margin-left: 33%;
 font-size: 14px;
+/*padding-bottom: 10px;*/
 }
 
 .more{
